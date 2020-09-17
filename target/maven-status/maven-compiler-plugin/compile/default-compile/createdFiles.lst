@@ -1,0 +1,8 @@
+com\capg\wallet\dao\WalletDao.class
+com\capg\wallet\controller\WalletRestController.class
+com\capg\wallet\dao\WalletDaoImpl.class
+com\capg\wallet\entity\BankBean.class
+com\capg\wallet\service\WalletServiceImpl.class
+com\capg\wallet\service\WalletService.class
+com\capg\wallet\entity\History.class
+com\capg\wallet\MainApplication.class
